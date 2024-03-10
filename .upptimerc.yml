@@ -5,10 +5,14 @@ repo: status.radiostats.info # The name of this repository
 sites:
   - name: RadioStats - Website
     url: https://radiostats.info
+    maxResponseTime: 5000
   - name: RadioStats - API
     url: https://api.radiostats.info
+    maxResponseTime: 5000
 
 status-website:
+  theme: dark
+  favicon: https://cdn.radiostats.info/transparent.png
   cname: status.radiostats.info
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.radiostats.info/transparent.png
