@@ -9,7 +9,7 @@ sites:
     url: https://api.radiostats.info
 
 status-website:
-  cname: discord.gg/RadioStats
+  cname: status.radiostats.info
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.radiostats.info/transparent.png
   name: RadioStats
