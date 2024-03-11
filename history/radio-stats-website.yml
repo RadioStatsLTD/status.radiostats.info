@@ -1,7 +1,7 @@
 url: https://radiostats.info
-status: up
-code: 200
-responseTime: 2293
-lastUpdated: 2024-03-10T23:01:19.733Z
+status: down
+code: 403
+responseTime: 669
+lastUpdated: 2024-03-11T14:47:17.612Z
 startTime: 2024-03-10T20:14:18.071Z
 generator: Upptime <https://github.com/upptime/upptime>
