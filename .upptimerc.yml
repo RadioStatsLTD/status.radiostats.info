@@ -9,6 +9,10 @@ sites:
   - name: RadioStats - API
     url: https://api.radiostats.info
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
 
 status-website:
   theme: dark
