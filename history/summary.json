@@ -4,18 +4,20 @@
     "url": "https://radiostats.info",
     "icon": "https://icons.duckduckgo.com/ip3/radiostats.info.ico",
     "slug": "radio-stats-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2362,
-    "timeDay": 2362,
-    "timeWeek": 2362,
-    "timeMonth": 2362,
-    "timeYear": 2362,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2151,
+    "timeDay": 2151,
+    "timeWeek": 2151,
+    "timeMonth": 2151,
+    "timeYear": 2151,
+    "dailyMinutesDown": {
+      "2024-03-11": 0
+    }
   },
   {
     "name": "RadioStats - API",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.radiostats.info.ico",
     "slug": "radio-stats-api",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "25.39%",
+    "uptimeDay": "25.39%",
+    "uptimeWeek": "25.39%",
+    "uptimeMonth": "25.39%",
+    "uptimeYear": "25.39%",
     "time": 400,
     "timeDay": 400,
     "timeWeek": 400,
     "timeMonth": 400,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2024-03-11": 0
+      "2024-03-11": 830
     }
   }
 ]
