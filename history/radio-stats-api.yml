@@ -1,7 +1,7 @@
 url: https://api.radiostats.info
-status: down
-code: 502
-responseTime: 417
-lastUpdated: 2024-03-12T17:28:29.529Z
+status: up
+code: 200
+responseTime: 1159
+lastUpdated: 2024-03-12T17:50:44.931Z
 startTime: 2024-03-10T20:14:20.747Z
 generator: Upptime <https://github.com/upptime/upptime>
